@@ -13,6 +13,7 @@
       "android",
       "web"
     ],
+    "description": "This app teaches you morse code through a series of practice levels. It has 'learn' levels which show you the code so you can first learn it and also 'play' levels which test your knowledge of those codes (and also codes prior!). Now you can finally learn morse code like you've always wanted to!",
     "orientation": "portrait",
     "icon": "./src/assets/images/icon.png",
     "splash": {
@@ -20,5 +21,6 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "githubURL": "https://github.com/arthurjl/MorseCodeApp"
   }
 }
